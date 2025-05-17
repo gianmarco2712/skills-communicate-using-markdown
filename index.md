@@ -3,3 +3,6 @@
 ``` lua
 print("Hello world!")
 ```
+- [ ] thing 1
+- [x] thing 2
+- [ ] thing 3
